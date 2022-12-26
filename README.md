@@ -18,9 +18,9 @@ Course Objectives
 -----------------
 * Motivate and demonstrate the benefits and uses of data science  
 * Impart the skills needed by a data scientist: acquire, clean, model, visualize data
-* Teach fundamental algorithms for handling basic and complex datasets including __streaming algorithms__
+* Teach fundamental algorithms for handling basic and complex datasets including __recommendation, basket analysis, streaming algorithms__
 * Study techniques for creating effective visualizations based on principles from graphic design, perceptual psychology, and cognitive science
-* Teach basic techniques of machine learning which is important way to model relationships in data 
+* Teach basic techniques of machine learning (unsupervised) which is important way to model relationships in data 
 * Provide hands-on experience to students in analyzing datasets in diverse fields __(NLP, Image/Video, Graphs, Networks, Bio-informatics, Finance)__
 
 Pre-requisites
