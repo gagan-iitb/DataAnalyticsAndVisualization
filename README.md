@@ -14,6 +14,20 @@ Motivation
 
 In this course, we want to learn how that is being done and solve real-life problems that we are interested in.
 
+Activity Based Learning
+------------------------
+# UNDERSTAND DATA ---> HYPOTHESIS ---> MODELS ----> INSIGHTS
+The Activities will reinforce this theme....will be done in class/lab
+ * Weight distribution: study modality
+ * Rolling dice: central limit theorem
+ * Phone features and cost model
+ * Composition: essay on "My country" -- study the vocabulary, language model, and probabilities. Can a machine compose this essay now?
+ * Measure various quantities: time you sleep, time to eat, time you spend on phone, time you study, play etc. Understand these distributions...
+ * Personality charts: Is there a person like me in the class whom I don't know?
+ * Clusters: how many groups are there in the class, are groups equal? any outliers there? 
+ * Curve-fits -- hidden points will appear after you learnt the curve
+
+
 Course Objectives
 -----------------
 * Motivate and demonstrate the benefits and uses of data science  
@@ -52,6 +66,8 @@ Books
 Class Materials
 ----------------
 Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
+
+
 
 Detailed Schedule
 -----------------
