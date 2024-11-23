@@ -26,6 +26,7 @@ The Activities will reinforce this theme....will be done in class/lab
  * Personality charts: Is there a person like me in the class whom I don't know?
  * Clusters: how many groups are there in the class, are groups equal? any outliers there? 
  * Curve-fits -- hidden points will appear after you learnt the curve
+ * Guess the number game -- binary search... distribution of number easy or hard?
 
 
 Course Objectives
