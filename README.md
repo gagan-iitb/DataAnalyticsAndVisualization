@@ -1,8 +1,8 @@
 # Data Analytics And Visualization
-Course Page for DS250 (Data Analytics and Visualization) being taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Winter Semester of 2022.
+Course Page for DS250 (Data Analytics and Visualization) being taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Winter Semester of 2025.
 <br> Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)
 
-The purpose of this course is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize visualization and analysis of complex data sets such as large network data. 
+This course's purpose is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize activity-based learning and develop industry-relevant skills in the fields of data visualization and analysis of complex data sets, such as large network data. 
 
 Motivation
 ----------
