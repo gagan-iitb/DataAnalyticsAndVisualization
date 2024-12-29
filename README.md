@@ -56,19 +56,17 @@ If you don't meet one or more pre-requisites, be prepared to spend more time bef
 
 Books
 ------
+* DAV: Data Analytics and Visualization, (to be published soon)
+* MML: [Mathematics of Machine Learning](https://mml-book.github.io/)
+* LFD: Learning From Data, Gilbert strang
 * IVB: Interactive visualization for the Web, Scott Murray
-* PRML: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/), Christopher Bishop
-* TDS: Think like a data scientist, Brian Godsey
+* ISL: Introduction to Statistical Learning
 * DSC: Data Science from Scratch, Joel Grus
 * GA: Graph Algorithms: Practical Examples in Apache Spark and Neo4J, Mark Needham, Amy Hodler
-* MML: [Mathematics of Machine Learning](https://mml-book.github.io/)
-* CIML: [A Course in Machine Learning](http://ciml.info/)
 
 Class Materials
 ----------------
 Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
-
-
 
 Detailed Schedule
 -----------------
