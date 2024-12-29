@@ -12,12 +12,12 @@ Motivation
 * Data usually has _complex correlations_ and i.i.d. assumptions don't always work very well (e.g. graph data, time-series data) 
 * Data Visualization is critical to help us engage more diverse audience in the process of analytical thinking 
 
-In this course, we want to learn how that is being done and solve real-life problems that we are interested in.
+In this course, we want to learn how that is being done and solve real-life problems that interest us.
 
 Activity Based Learning
 ------------------------
 # UNDERSTAND DATA ---> HYPOTHESIS ---> MODELS ----> INSIGHTS
-The Activities will reinforce this theme....will be done in class/lab
+The Activities will reinforce this theme.will be done in class/lab
  * Weight distribution: study modality
  * Rolling dice: central limit theorem
  * Phone features and cost model
@@ -73,47 +73,44 @@ Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/
 Detailed Schedule
 -----------------
 Legend:
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Theory
- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Labs
 |#| Week| Topics planned in this week | Text Book Reference |
 | --- | ------------| ----------- | -------- |
-|1| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jan 3 | Introduction to Data Science, Facets of Data, Probability Distributions | [In D3](https://observablehq.com/@d3/d3-random)|
-|1|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 3 | Lab: Web Development, Intro to D3: Data, Scales, Shapes | [W3](https://www.w3schools.com/), [Tutorials from UBC](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/0_Web_Tutorial) [2](https://github.com/UBC-InfoVis/2021-436V-tutorials/tree/master/1_D3_Tutorial)|
-|2| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10 | Data Science Process, Data Models: Geometric view and Statistical view,  Data Cleaning, EDA: Value of Visualization, Gaussian Distribution, Conjugate Prior | PRML Ch1, MML Ch 6 |
-|2|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10 | Lab: Intro to Numpy and Pandas; Intro to Matplotlib, Seaborn, Plotnine,   | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
-|3| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 10| Visualizing Data, Kernel Density, Describing Data, Correlation Metrics||
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots|IVB |
-|3|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 10| Case Studies: Predicting malicious URLs, Risk in Bank Loans, Sentiment Analysis, Healthcare Dataset||
-|4| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 17| Distance Measures, Recommendation Rules, Association Rules, ML intro, Learning by Prototypes ||
-|4|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 17| Lab: D3 Data joins and basic interactivity||
-|5| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  Jan 24| Learning to classify data: various algorithms, Generative and Discriminative Models,  |PRML|
-|5|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Jan 24| Lab: Connect Python to D3 using Flask||
-|6| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Jan 31| Mathematics of Neural Networks, Decision Trees | PRML|
+|1| Dec 30 | Introduction to Data Science, Facets of Data, Data Science Process, Data Models: Geometric view and Statistical view, Probability Distributions | |
+|1| Dec 30 | Lab: Data Loading, Data Cleaning and Exploration with Python | |
+|2| Jan 6 | Linear Algebra and Regression | |
+|2| Jan 6 | Lab: Intro to Numpy and Pandas; Intro to Matplotlib, Seaborn, Plotly   | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
+|3| Jan 13| Optimization theory and applications, PCA ||
+|3| Jan 13| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots|IVB |
+|3| Jan 13| Case Studies: Predicting malicious URLs, Risk in Bank Loans, Sentiment Analysis, Healthcare Dataset||
+|4| Jan 20| Distance Measures, Recommendation Rules, Association Rules, ML intro, Learning by Prototypes ||
+|4| Jan 20| Lab: ||
+|5| Jan 27| Learning to classify data: various algorithms, Generative and Discriminative Models,  |PRML|
+|5| Jan 27| Lab: Connect Python to D3 using Flask||
+|6| Jan 31| Mathematics of Neural Networks, Decision Trees | PRML|
 |6| Jan 31| __Project: Complete a Basic Data Classification Interactive Application__ ||
-|6| Feb 3| __Tierce 1 Exam__||
-|7| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 7|   Networks: Basic Algorithms: Path Finding|GA Ch 4|
-|7|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 7| Lab: Visualization of Networks and Trees in D3|IVB Ch13|
-|8| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 14|  Networks Analysis: Random Walks, Counting Triangles|GA Ch 4 |
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Lab: Intro to Neo4J|GA Ch3|
-|8|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 14| Case Studies: Knowledge Graphs, Product Recommendation, Graphical Models ||
-|9| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 21|  Centrality Algorithms, Community Detection Algorithms |GA Ch5|
-|9|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 21| Lab: Data Analysis using Neo4J| |
-|10|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Feb 28| Text and Graph Embedding Algorithms|GA Ch6,7|
-|10|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries: NLTK    |    |
-|11| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Mar 7|  Graph Machine Learning |GA Ch6,7|
+|7| Feb 7|   Networks: Basic Algorithms: Path Finding|GA Ch 4|
+|7| Feb 7| Lab: Visualization of Networks and Trees in D3|IVB Ch13|
+|8| Feb 14|  Networks Analysis: Random Walks, Counting Triangles|GA Ch 4 |
+|8| Feb 14| Lab: Intro to Neo4J|GA Ch3|
+|8| Feb 14| Case Studies: Knowledge Graphs, Product Recommendation, Graphical Models ||
+|9| Feb 21|  Centrality Algorithms, Community Detection Algorithms |GA Ch5|
+|9| Feb 21| Lab: Data Analysis using Neo4J| |
+|10| Feb 28| Text and Graph Embedding Algorithms|GA Ch6,7|
+|10| Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries: NLTK    |    |
+|11| Mar 7|  Graph Machine Learning |GA Ch6,7|
 |11| Mar 7| __Project: Complete a graph data analysis Application__| |
 |12| Mar 12-20|__Mid Sem Break__||
 |12| Mar 21| __Tierce 2 Exam__||
-|13|  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 4 | Time Series Data Analysis  ||
-|13|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 4| Lab: Interactive Dashboards|IVB Ch10|
-|14| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 11|  Streaming Data Algorithms||
-|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Lab: Time Series Prediction and Clustering  ||
-|14|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 11| Case Studies: Weather, Financial Data, Imports/Exports,  ||
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 18|  Algorithms for Clustering Data: K-Means, K-Means++, DTW, DBSCAN ||
-|15|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 18 | Lab: Geographical Maps  |IVB Ch14|
-|15| ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Apr 25|  Dimensionality Reduction Algorithms | |
-|16|  ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Apr 25| Lab: Visualization of High-Dimensional Data using T-SNE ||
-|17 |Apr 25 |__Major Project: Complete a major data analysis course project__  ||
+|13| Apr 4 | Time Series Data Analysis  ||
+|13| Apr 4| Lab: Interactive Dashboards|IVB Ch10|
+|14| Apr 11|  Streaming Data Algorithms||
+|14| Apr 11| Lab: Time Series Prediction and Clustering  ||
+|14| Apr 11| Case Studies: Weather, Financial Data, Imports/Exports,  ||
+|15| Apr 18|  Algorithms for Clustering Data: K-Means, K-Means++, DTW, DBSCAN ||
+|15| Apr 18 | Lab: Geographical Maps  |IVB Ch14|
+|15| Apr 25|  Dimensionality Reduction Algorithms | |
+|16| Apr 25| Lab: Visualization of High-Dimensional Data using T-SNE ||
+|17| Apr 25 |__Major Project: Complete a major data analysis course project__  ||
 
 
 
