@@ -67,6 +67,21 @@ Books
 Class Materials
 ----------------
 Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
+|#| Week   | Topics planned in this week | Text Book Reference |
+| ----- | ------------| ----------- | -------- |
+|1|  Dec 6  | Histogram, Dice Rolling, Central Limit Theorem, Height Weight Distribution |  |
+|2|  Jan 6  | Regression, Clustering, Word Length Distribution, Vectors, Random Matrices, Linear Project, Convex Lenc, Volume Calculation Using Determinants | MML Ch 4 |
+|3|  Jan 13  | Linear Projections, Gradients, Noise, Multi-variate Gaussian | MML Ch 5,6 |
+|4|  Jan 20  | Linear Regression, analysis, Multi-variate Calculus | MML Ch 5 |
+|5|  Jan 27  | Information Theory, Decision Theory | PML Ch 5,6 |
+|6|  Jan 27  | Seaborn, plotly,PCA,SVD | Lab |
+|7|  Feb  3   | Classification: Statistics (MLE, MAP) | PML Ch 4 |
+|8|  Feb  3   | TensorFlow | Lab |
+|9|  Feb 10   | High Dimensional Data Analysis, Dimensionlity Reduction | FOD Ch1 |
+|10|  Feb 10   | Lab Assignment: Individual Activity Last Lab | Lab |
+
+
+
 
 Detailed Schedule
 -----------------
