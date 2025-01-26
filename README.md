@@ -61,8 +61,13 @@ Books
 * LFD: Learning From Data, Gilbert strang
 * IVB: Interactive visualization for the Web, Scott Murray
 * ISL: Introduction to Statistical Learning
+* PML : Probabilistic Machine Learning, Kevin P. Murphy
 * DSC: Data Science from Scratch, Joel Grus
 * GA: Graph Algorithms: Practical Examples in Apache Spark and Neo4J, Mark Needham, Amy Hodler
+
+Syllabus for the course
+------------------------
+Introduction to Data science workflow; Data Collection and Exploratory Analysis: Automated methods for data collection, Data and Visualization Models, Data wrangling and cleaning, and Exploratory data analysis; Building Models for: Classification, Clustering, Regression; Model evaluation: statistical tests for significance of predictors; Time-series Analysis: Characteristics, Regression, Exploratory data analysis, ARIMA Models; Visualization Design: Introduction, Abstractions, Validation, Marks and Channels; Visualization of Different Data Types: Tabular Data, Multidimensional Data, Spatial Data, Graphs, Text Data; Assorted Topics: Graphical Perception, Interaction dynamics for Visual Analysis, Using Space Effectively, Stacked Graphs, Geometry & Aesthetics.
 
 Class Materials
 ----------------
