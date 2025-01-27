@@ -13,6 +13,6 @@ We will be posting Lab exercises, starter code over here
 | ----- | ------------| ----------- | -------- |
 |1|  Jan 27  | Seaborn, plotly,PCA,SVD | https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Seaborn_Plotly_27_Jan_2025.ipynb |
 |2|  Feb 3   | Lab Assignment: Individual Activity Last Lab | Lab |
-|3|  Feb  10   | TensorFlow | Lab |
+|3|  Feb  10   | PyTorch | Lab |
 
 
