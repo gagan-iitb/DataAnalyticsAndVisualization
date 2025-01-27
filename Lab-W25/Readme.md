@@ -7,3 +7,12 @@ We will be posting Lab exercises, starter code over here
 4.	Write down all your contacts in your phone or whatsapp or email contact list. If you believe two of your contacts also know each other, then draw an edge between them. Plot this data as a graph. Can you identify clusters? What can you do to complete the graph (find missing edges)?
 5.	Compile your expenses from your bank statements of last 5 years. Plot the data and identify any trends, seasonal components, special events etc.
 
+
+**Lab Work**
+|#| Week   | Topics planned in this week | Text Book Reference |
+| ----- | ------------| ----------- | -------- |
+|1|  Jan 27  | Seaborn, plotly,PCA,SVD | Lab |
+|2|  Feb 3   | Lab Assignment: Individual Activity Last Lab | Lab |
+|3|  Feb  10   | TensorFlow | Lab |
+
+
