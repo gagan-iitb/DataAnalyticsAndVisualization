@@ -74,7 +74,7 @@ Class Materials
 Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
 |#| Week   | Topics planned in this week | Text Book Reference |
 | ----- | ------------| ----------- | -------- |
-|1|  Dec 6  | Histogram, Dice Rolling, Central Limit Theorem, Height Weight Distribution |  |
+|1|  Dec 30  | Histogram, Dice Rolling, Central Limit Theorem, Height Weight Distribution |  |
 |2|  Jan 6  | Regression, Clustering, Word Length Distribution, Vectors, Random Matrices, Linear Project, Convex Lens, Volume Calculation Using Determinants | MML Ch 4 |
 |3|  Jan 13  | Linear Projections, Gradients, Noise, Multi-variate Gaussian | MML Ch 5,6 |
 |4|  Jan 20  | Linear Regression, analysis, Multi-variate Calculus | MML Ch 5 |
