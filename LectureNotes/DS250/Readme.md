@@ -62,6 +62,8 @@ plt.show()
 4. Plot the histogram:
    - **X-axis:** Word lengths.
    - **Y-axis:** Frequency of words of each length.
+  
+![Word Length Distribution](word_length%20Distribution.jpeg)
 
 **Part B: Starting Letter Histogram**
 
@@ -75,7 +77,6 @@ plt.show()
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
 
-![Word Length Distribution](word_length%20Distribution.jpeg)
 
 ![Starting Letter Distribution](starting_letter_frequency.jpg)
 
