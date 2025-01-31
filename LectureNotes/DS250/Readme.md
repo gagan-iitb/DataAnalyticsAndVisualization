@@ -186,7 +186,7 @@ print("Magnitude:", magnitude)
 print("Direction:", direction)
 ```
 
-![Tug of War Result](./images/tug_of_war_result.jpg)
+![Tug of War](vector%20matrix.jpg)
 
 ---
 
