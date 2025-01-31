@@ -50,7 +50,6 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-![Histogram Example](./images/histogram_example.jpg)
 
 ---
 
@@ -81,7 +80,7 @@ plt.show()
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
 
-![Word Length Distribution](word_length Distribution.jpeg)
+![Word Length Distribution](word_length%20Distribution.jpeg)
 
 ![Starting Letter Distribution](starting_letter_frequency.jpg)
 
