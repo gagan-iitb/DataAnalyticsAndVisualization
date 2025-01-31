@@ -227,9 +227,16 @@ print("Direction:", direction)
 
 ### Conditional Probability
 
-Conditional probability is the probability of an event \(A\) occurring given that another event \(B\) has occurred:
+Conditional probability is the probability of an event occurring given that
+another event has already occurred. In other words, it quantifies the likelihood
+of an event A happening, under the condition that event B is known to have
+occurred. The conditional probability of A given B is denoted as P (A|B), and
+it is calculated using the formula: 
 
-\(P(A | B) = \frac{P(A \cap B)}{P(B)}\)
+P (A|B) = P (A ∩ B)/P (B)
+where:
+- P (A ∩ B) is the probability that both events A and B occur (i.e., the
+intersection of A and B). - P (B) is the probability that event B occurs.
 
 #### Dice Experiment
 
