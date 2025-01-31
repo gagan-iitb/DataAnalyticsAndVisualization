@@ -13,25 +13,20 @@ A histogram is a graphical representation of the distribution of data. It divide
 
 #### Mathematical Definition
 
-Let \(x_1, x_2, \dots, x_n\) be the data points. Divide the range of data into \(k\) bins, where:
+Let be the data points. Divide the range of data into bins, where:
+The bin width is:
 
-The bin width \(w\) is:
+w = max(x) - min(x) k
+bi ≤ x < bi+1 
 
-\(w = \frac{\text{max}(x) - \text{min}(x)}{k}\)
+Here, and are the edges of the -th bin.
+Steps to Plot a Histogram:-
 
-For each bin \(i\):
+1. Choose the number of bins: Use the rule of thumb or algorithms like the
+Sturges’ formula:
 
-\(b_i \leq x < b_{i+1}\)
-
-Here, \(b_i\) and \(b_{i+1}\) are the edges of the \(i\)-th bin.
-
-#### Steps to Plot a Histogram
-
-1. Choose the number of bins: Use the rule of thumb or algorithms like Sturges' formula:
-
-   \(k = \lceil \log_2(n) + 1 \rceil\)
-
-2. Plot the frequencies using bar heights.
+k = ⌈log2(n) + 1⌉
+3. Plot the frequencies using bar heights.
 
 #### Python Code Example
 
