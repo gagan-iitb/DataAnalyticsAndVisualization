@@ -94,7 +94,7 @@ plt.show()
 
 Where \(t\) represents time (from the beginning to today).
 
-![Weight and Height Functions](./images/weight_height_forecasting.jpg)
+![Weight and Height Functions](weight_height_forecasting.jpeg)
 
 ---
 
