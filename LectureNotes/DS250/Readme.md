@@ -85,9 +85,16 @@ plt.show()
 
 **Functions:**
 
-\(w(t) = t + 2, \quad h(t) = 3t + 5\)
-
-Where \(t\) represents time (from the beginning to today).
+Define the following functions:
+w(t) = t + 2, (Weight function)
+h(t) = 3t + 5, (Height function)
+where t represents time (from the beginning to today).
+Steps
+1. Create data points for different values of t (e.g., t = 0, 1, 2, . . .).
+2. Calculate w(t) and h(t) for each t.
+3. Plot the histogram using:
+• X-axis: Time (t).
+• Y-axis: Weight (w(t)) or Height (h(t)). 
 
 ![Weight and Height Functions](weight_height_forecasting.jpeg) 
 
