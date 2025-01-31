@@ -142,9 +142,11 @@ A vector is a quantity that has both magnitude and direction. For example, a vec
 
 \(\vec{A} = A_x \hat{i} + A_y \hat{j}\)
 
+![VECTOR ](VECTOR.jpeg)
+
 #### Tug of War Problem
 
-Three people pull a rope with forces:
+Three people pull a rope with forces: 
 
 - \(\vec{F}_1 = 10 \hat{i} + 5 \hat{j}\) Newtons.
 - \(\vec{F}_2 = -8 \hat{i} + 7 \hat{j}\) Newtons.
