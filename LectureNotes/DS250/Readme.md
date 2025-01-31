@@ -142,7 +142,7 @@ A vector is a quantity that has both magnitude and direction. For example, a vec
 
 \(\vec{A} = A_x \hat{i} + A_y \hat{j}\)
 
-![VECTOR ](VECTOR.jpeg)
+![VECTOR ](VECTOR.jpg)
 
 #### Tug of War Problem
 
