@@ -81,9 +81,9 @@ plt.show()
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
 
-![Word Length Distribution](./images/word_length_distribution.jpg)
+![Word Length Distribution](./images/word_length_Distribution.jpeg)
 
-![Starting Letter Distribution](./images/starting_letter_frequency.jpg)
+![Starting Letter Distribution](./images/starting_letter_frequency.jpeg)
 
 **Part C: Forecasting with Weight and Height Functions**
 
