@@ -69,6 +69,8 @@ plt.show()
    - **X-axis:** Word lengths.
    - **Y-axis:** Frequency of words of each length.
 
+![Word Length Distribution](./word_length.jpg)
+
 **Part B: Starting Letter Histogram**
 
 **Objective:** Create a histogram to analyze the frequency of words starting with each letter of the alphabet.
@@ -80,7 +82,7 @@ plt.show()
 3. Plot the histogram:
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
-![Word Length Distribution](./word_length.jpg)
+   - 
 ![Starting Letter Distribution](./starting_letter_frequency.jpg)
 
 **Part C: Forecasting with Weight and Height Functions**
@@ -243,7 +245,6 @@ print("P(A | B):", P_A_given_B)
 ```
 P(A | B): 0.6666666666666666
 ```
-
 ![Conditional Probability](./conditional_probability.jpg)
 
 ---
