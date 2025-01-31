@@ -21,7 +21,7 @@ The bin width \(w\) is:
 
 For each bin \(i\):
 
-\(b_i \leq x < b_{i+1}\)
+\(b_i < x < b_{i+1}\)
 
 Here, \(b_i\) and \(b_{i+1}\) are the edges of the \(i\)-th bin.
 
@@ -29,7 +29,7 @@ Here, \(b_i\) and \(b_{i+1}\) are the edges of the \(i\)-th bin.
 
 1. Choose the number of bins: Use the rule of thumb or algorithms like Sturges' formula:
 
-   \(k = \lceil \log_2(n) + 1 \rceil\)
+   \(k = [log_2(n) + 1 ]
 
 2. Plot the frequencies using bar heights.
 
@@ -80,9 +80,7 @@ plt.show()
 3. Plot the histogram:
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
-
 ![Word Length Distribution](./word_length.jpg)
-
 ![Starting Letter Distribution](./starting_letter_frequency.jpg)
 
 **Part C: Forecasting with Weight and Height Functions**
@@ -91,9 +89,9 @@ plt.show()
 
 **Functions:**
 
-\(w(t) = t + 2, \quad h(t) = 3t + 5\)
+\(w(t) = t + 2, \ h(t) = 3t + 5\)
 
-Where \(t\) represents time (from the beginning to today).
+Where (t\) represents time (from the beginning to today).
 
 ---
 
