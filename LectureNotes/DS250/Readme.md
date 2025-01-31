@@ -50,7 +50,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-![Histogram Example]('./images/histogram_example.jpg')
+![Histogram Example](./images/histogram_example.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ plt.show()
 
 ![Word Length Distribution](word_length Distribution.jpeg)
 
-![Starting Letter Distribution](starting_letter_frequency.jpeg)
+![Starting Letter Distribution](starting_letter_frequency.jpg)
 
 **Part C: Forecasting with Weight and Height Functions**
 
