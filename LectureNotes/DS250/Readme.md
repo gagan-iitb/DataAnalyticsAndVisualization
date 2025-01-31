@@ -113,9 +113,9 @@ A heatmap is a data visualization technique used to represent data in a matrix f
 
 #### Mathematical Definition
 
-For a matrix \(A\) with elements \(a_{ij}\), a heatmap assigns a color \(c_{ij}\) to each cell based on a colormap \(C\):
-
-\(c_{ij} = C(a_{ij})\)
+For a matrix with elements , a heatmap assigns a color to each cell based on
+a colormap :
+cij = C(aij )
 
 #### Steps to Create a Heatmap
 
