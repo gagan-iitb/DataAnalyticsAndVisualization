@@ -1,4 +1,4 @@
-Lecture-1 Notes
+Lecture-1 Notes 
 ---
 
 ## Introduction
@@ -21,7 +21,7 @@ The bin width \(w\) is:
 
 For each bin \(i\):
 
-\(b_i < x < b_{i+1}\)
+\(b_i \leq x < b_{i+1}\)
 
 Here, \(b_i\) and \(b_{i+1}\) are the edges of the \(i\)-th bin.
 
@@ -29,13 +29,11 @@ Here, \(b_i\) and \(b_{i+1}\) are the edges of the \(i\)-th bin.
 
 1. Choose the number of bins: Use the rule of thumb or algorithms like Sturges' formula:
 
-   \(k = [log_2(n) + 1 ]
+   \(k = \lceil \log_2(n) + 1 \rceil\)
 
 2. Plot the frequencies using bar heights.
 
 #### Python Code Example
-
-[View Histogram Code Example](https://gist.github.com/your-link-here)
 
 ```python
 import matplotlib.pyplot as plt
@@ -51,6 +49,8 @@ plt.xlabel('Value')
 plt.ylabel('Frequency')
 plt.show()
 ```
+
+![Histogram Example](./images/histogram_example.jpg)
 
 ---
 
@@ -69,8 +69,6 @@ plt.show()
    - **X-axis:** Word lengths.
    - **Y-axis:** Frequency of words of each length.
 
-![Word Length Distribution](./word_length.jpg)
-
 **Part B: Starting Letter Histogram**
 
 **Objective:** Create a histogram to analyze the frequency of words starting with each letter of the alphabet.
@@ -82,8 +80,10 @@ plt.show()
 3. Plot the histogram:
    - **X-axis:** Starting letters (A-Z).
    - **Y-axis:** Frequency of words starting with each letter.
-   - 
-![Starting Letter Distribution](./starting_letter_frequency.jpg)
+
+![Word Length Distribution](./images/word_length_distribution.jpg)
+
+![Starting Letter Distribution](./images/starting_letter_frequency.jpg)
 
 **Part C: Forecasting with Weight and Height Functions**
 
@@ -91,9 +91,11 @@ plt.show()
 
 **Functions:**
 
-\(w(t) = t + 2, \ h(t) = 3t + 5\)
+\(w(t) = t + 2, \quad h(t) = 3t + 5\)
 
-Where (t\) represents time (from the beginning to today).
+Where \(t\) represents time (from the beginning to today).
+
+![Weight and Height Functions](./images/weight_height_forecasting.jpg)
 
 ---
 
@@ -115,8 +117,6 @@ For a matrix \(A\) with elements \(a_{ij}\), a heatmap assigns a color \(c_{ij}\
 
 #### Python Code Example
 
-[View Heatmap Code Example](https://gist.github.com/your-link-here)
-
 ```python
 import seaborn as sns
 import numpy as np
@@ -130,6 +130,8 @@ sns.heatmap(data, annot=True, cmap='viridis')
 plt.title('Heatmap')
 plt.show()
 ```
+
+![Heatmap Example](./images/heatmap_example.jpg)
 
 ---
 
@@ -163,8 +165,6 @@ Three people pull a rope with forces:
 
 #### Python Implementation
 
-[View Tug of War Code Example](https://gist.github.com/your-link-here)
-
 ```python
 import numpy as np
 
@@ -185,6 +185,8 @@ print("Magnitude:", magnitude)
 print("Direction:", direction)
 ```
 
+![Tug of War Result](./images/tug_of_war_result.jpg)
+
 ---
 
 ### Additional Resources
@@ -192,6 +194,7 @@ print("Direction:", direction)
 - [Histogram Video](https://drive.google.com/file/d/1g_NWFWEwnrwKtEe_6Ub3wr88oSFAZrdw/view?usp=drive_link)
 - [Heatmap Video](https://drive.google.com/file/d/1VlTeJLOTASAtO9nbkH_QxsGp8jWv7EO0/view?usp=drive_link)
 - [Tug of War Video](https://drive.google.com/file/d/1Rbj_JCdAgs84ctgMNpFsYSufM_-e7lto/view?usp=drive_link)
+- [Conditional Probability Video](https://drive.google.com/file/d/1J6ZlfSrlUJupLeQZTIPitkgY0OLLZeeK/view?usp=drive_link)
 
 ---
 
@@ -245,7 +248,6 @@ print("P(A | B):", P_A_given_B)
 ```
 P(A | B): 0.6666666666666666
 ```
-![Conditional Probability](./conditional_probability.jpg)
 
----
+![Conditional Probability Example](./images/conditional_probability_example.jpg)
 
