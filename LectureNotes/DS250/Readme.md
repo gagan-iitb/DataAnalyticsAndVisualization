@@ -194,7 +194,7 @@ print("Direction:", direction)
 
 - [Histogram Video](https://drive.google.com/file/d/1g_NWFWEwnrwKtEe_6Ub3wr88oSFAZrdw/view?usp=drive_link)
 - [Heatmap Video](https://drive.google.com/file/d/1VlTeJLOTASAtO9nbkH_QxsGp8jWv7EO0/view?usp=drive_link)
-- [Tug of War Video](https://drive.google.com/file/d/1Rbj_JCdAgs84ctgMNpFsYSufM_-e7lto/view?usp=drive_link)
+- [Tug of War Video](https://drive.google.com/file/d/1VlTeJLOTASAtO9nbkH_QxsGp8jWv7EO0/view?usp=drive_link)
 - [Conditional Probability Video](https://drive.google.com/file/d/1J6ZlfSrlUJupLeQZTIPitkgY0OLLZeeK/view?usp=drive_link)
 
 ---
