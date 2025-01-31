@@ -50,7 +50,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-![Histogram Example](./images/histogram_example.jpg)
+![Histogram Example]('./images/histogram_example.jpg')
 
 ---
 
