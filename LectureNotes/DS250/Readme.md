@@ -287,5 +287,7 @@ P(A | B): 0.6666666666666666
 
 
 
-[Conditional Probability video](https://drive.google.com/file/d/1w9gS_nut-K0EZZ5SGK8UsKN_qbwcPaBN/view?usp=drive_link) 
+[Conditional Probability video 1](https://drive.google.com/file/d/1w9gS_nut-K0EZZ5SGK8UsKN_qbwcPaBN/view?usp=drive_link) 
+
+[Conditional Probability video 2](https://drive.google.com/file/d/1J6ZlfSrlUJupLeQZTIPitkgY0OLLZeeK/view?usp=drive_link)
 
