@@ -146,12 +146,16 @@ plt.show()
 
 ### 3. Vectors and the Tug of War Problem
 
-#### Vectors
+#### Vectors 
 
-A vector is a quantity that has both magnitude and direction. For example, a vector \(\vec{A}\) in 2D space:
+A vector is a quantity that has both magnitude and direction. It can be
+represented in the Cartesian coordinate system with components along the x,
+y, and z axes.
 
-\(\vec{A} = A_x \hat{i} + A_y \hat{j}\)
-
+For example, a vector⃗ A in two-dimensional space can be written as:⃗
+A = Axˆi + Ayˆj
+where: - Ax and Ay are the components of the vector along the x and y
+axes, respectively. - ˆi and ˆj are the unit vectors along the x and y axes.
 ![VECTOR ](VECTOR.jpg)
 
 #### Tug of War Problem
@@ -202,7 +206,6 @@ print("Direction:", direction)
 
 ### Additional Resources
 
-- [Histogram Video](https://drive.google.com/file/d/1g_NWFWEwnrwKtEe_6Ub3wr88oSFAZrdw/view?usp=drive_link)
 - [Heatmap Video](https://drive.google.com/file/d/1VlTeJLOTASAtO9nbkH_QxsGp8jWv7EO0/view?usp=drive_link)
 - [Tug of War Video](https://drive.google.com/file/d/1VlTeJLOTASAtO9nbkH_QxsGp8jWv7EO0/view?usp=drive_link)
 - [Conditional Probability Video](https://drive.google.com/file/d/1J6ZlfSrlUJupLeQZTIPitkgY0OLLZeeK/view?usp=drive_link)
