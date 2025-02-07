@@ -103,11 +103,10 @@ Steps
 
 
 
+---
+
 
 - [Histogram Video](https://drive.google.com/file/d/1g_NWFWEwnrwKtEe_6Ub3wr88oSFAZrdw/view?usp=drive_link)
 
 ---
-
-
-[Conditional Probability video 2](https://drive.google.com/file/d/1J6ZlfSrlUJupLeQZTIPitkgY0OLLZeeK/view?usp=drive_link)
 
