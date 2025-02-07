@@ -1,4 +1,4 @@
-LECTURE ON HEATMAP:- 
+###LECTURE ON HEATMAP:- 
 
 A heatmap is a data visualization technique used to represent data in a matrix format with varying intensities of color to show magnitude.
 
