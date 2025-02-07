@@ -1,3 +1,4 @@
+LECTURE ON:- 
 ### Conditional Probability
 
 Conditional probability is the probability of an event occurring given that
