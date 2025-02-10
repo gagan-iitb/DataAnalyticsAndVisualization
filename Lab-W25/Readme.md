@@ -12,7 +12,7 @@ We will be posting Lab exercises, starter code over here
 |#| Week   | Topics planned in this week | Text Book Reference |
 | ----- | ------------| ----------- | -------- |
 |1|  Jan 27  | Seaborn, plotly,PCA,SVD | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Seaborn_Plotly_27_Jan_2025.ipynb) |
-|2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud_2.ipynb),[Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/jaccard_Distance.ipynb) |
-|3|  Feb  10   | PyTorch | Lab |
+|2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud_2.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/jaccard_Distance.ipynb) |
+|3|  Feb  10   | Scikit Learn | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Scikit_learn.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Lab_Scikit_Learn.pdf) |
 
 
