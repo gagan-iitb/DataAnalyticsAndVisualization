@@ -145,5 +145,7 @@ Check these examples: [Sankey](https://observablehq.com/@d3/sankey), [Cholorplet
 # Labs and Projects
 The project and lab component of this course will equip students with modern software toolkit to develop their own data analysis and interactive visualization applications (web/android) to better appreciate the data science process.
 
+**12341680_RahulRaj:** Open the link and click on **Project** Section [Live web portal](https://storytellingwithdata.vercel.app/)
+
 
 
