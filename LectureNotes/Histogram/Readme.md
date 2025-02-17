@@ -1,6 +1,7 @@
 Lecture-1 Notes 
 ---
 ### HISTOGTRAM
+
 ## Introduction
 
 ### Notes on Plotting Histograms and Heatmaps
