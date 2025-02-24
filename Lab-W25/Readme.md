@@ -15,4 +15,5 @@ We will be posting Lab exercises, starter code over here
 |2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud_2.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/jaccard_Distance.ipynb) |
 |3|  Feb  10   | Scikit Learn | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Scikit_learn.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Lab_Scikit_Learn.pdf), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/mnist_dataset.ipynb) |
 
+**STORY TELLING ACTIVITY**
 
