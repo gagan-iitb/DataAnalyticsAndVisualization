@@ -19,7 +19,7 @@ We will be posting Lab exercises, starter code over here
 
 **STORY TELLING ACTIVITY**
 
-**|#| Sno	|  Topic	|  URL	|  GitHub   |
+|#| Sno	|  Topic	|  URL	|  GitHub   |
  | ----- | ---------------- | ------------------ | -------------------  |
  
  |1|  
