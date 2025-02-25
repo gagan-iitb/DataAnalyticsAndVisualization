@@ -59,6 +59,14 @@ We will be posting Lab exercises, starter code over here
 |36|   Crime Data  | [Link](https://crimedataanal.vercel.app/)  | [Link](https://github.com/krish1809/Crime_data_analysis)  |
 |37|   JEE Prep   | [Link](https://dav-storytelling-jee.vercel.app/)  | [Link](https://github.com/katoch30/DAV-Storytelling-JEE.git)  |
 |38|   Farmer Welfare   |  [Link](https://rohitraghuwanshistorywithdata.netlify.app)   | [Link](https://github.com/rohitraghuwanshi07/Story-Telling-with-data)  |
+|39|   IPL   | [Link](https://davsarthak.netlify.app/)  |  [Link](https://github.com/Sarthak-GS/DAVweb)   | 
+|40|   Placement   |[Link](https://mini-project-f3dc.onrender.com)   | [Link](https://github.com/sashankL-01/Mini-project)    |
+|41|   Late Evening Craving   |  [Link](https://datastorybyshashank.netlify.app/)   |  [Link](https://github.com/iamshashankyadav/data_story_website.git)   | 
+|42|   Sleep Data  |  [Link](https://shourya11223.github.io/Story-telling-with-data/)   |  [Link](https://github.com/Shourya11223/Story-telling-with-data)   | 
+|43|  Exchange Rate  |  [Link](https://gleaming-jalebi-eaee55.netlify.app)   |   [Link](https://github.com/SidheshKumarPatra/Data-Analytics-and-Visualization-Project)   |
+|44|   Food Order   |  [Link](https://davstorytelling-sreyachitluru.streamlit.app/Swiggy_Vs._Zomato)   |   [Link](https://github.com/sreyachitluru/DAV_Story_Telling)   |
+|45|  Sports   | [Link](https://suraj026.github.io/Story-Telling-with-Data/)   |   [Link](https://github.com/Suraj026/Story-Telling-with-Data.git)   |
+
 
 
 
