@@ -51,6 +51,9 @@ We will be posting Lab exercises, starter code over here
 |28|  Foot Step  | [Link](https://boisterous-concha-295cce.netlify.app)  | [Link](https://github.com/kinshuk18/KinshukGupta_12341190_Story_Telling_with_Data)  |
 |29|   Tech cafe   | [Link](https://dav-story.onrender.com)   | [Link](https://github.com/KunalSewal/DAV-Story)  |
 |30|   PC Game  | [Link](https://nikhil-shrey.github.io/pc-games-analysis/)  | [Link](https://github.com/NIKHIL-SHREY/pc-games-analysis)  |
+|31|  Laptop Price  | [Link](https://effortless-sorbet-71269b.netlify.app)  |  [Link](https://github.com/Pobitro-B/Storytelling)   |
+|32|   Gym Usage  |  [Link](https://storytellingwithdata.vercel.app/)   | [Link](https://github.com/Rahul5977/Learning-React/tree/main/07reactRouter)  |
+
 
 
 
