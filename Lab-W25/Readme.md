@@ -26,6 +26,18 @@ We will be posting Lab exercises, starter code over here
 |3|   Movie    | [link](https://motabhaistorytelling.vercel.app/) | [link](https://github.com/Abhigyan6091/Story-Telling-) | 
 |4|   Game Sales | [link](https://datastorybyajay.netlify.app)  | [link](https://github.com/AjayChikate/DAV-PROJECT)  | 
 |5|   Mobile Games  | [link](https://game-survey-dusky.vercel.app)  | [Link](https://github.com/Akshats-git/Learning-React/tree/main/08StoryTelling_Akshat)  |
+|6| Spotify  | [Link](https://dsl-251-story-with-data.vercel.app/)  | [Link](https://github.com/amaydixit11/DSL251-story-with-data)  |
+|7|  Library  | [Link](https://library-analysis.vercel.app/)  | [Link](https://github.com/Anamikarajesh/Library-Analysis)  |
+|8|           |                 |            |   
+|9|  Game Development | [Link](https://admirable-semolina-0de399.netlify.app)  | [Link](https://github.com/HERO310/Story_telling_with_data)  | 
+|10|  Digital Life   |  [Link](https://diving-into-data.vercel.app)  | [Link](https://github.com/Prabhu0305/diving-into-data/tree/main/project)  |
+|11|  Health  |  [Link](https://dsp252-mini-project-1.vercel.app)   | [Link](https://github.com/ashutosh229/dsp252-mini-project-1)  |
+|12|  InterNet Usage  |  [Link](https://student-internet.vercel.app)  | [Link](https://github.com/balthireethika/student-internet)  | 
+|13|         |                                                 |                                                 | 
+|14|  Election  | [Link](https://electionsdataanalysis.vercel.app/)  | [Link](https://github.com/az-raei/electionsdataanalysis) | 
+|15|  Skin Care  | [Link](https://exciting-sealion.static.domains/skincare)  | [Link](https://github.com/sirichandanaa-hub/skincare)  |
+|16|  Budget  | [Link](https://harlequin-verina-80.tiiny.site)  | [Link](https://github.com/Srividhya252006/StoryTelling)  |
+
 
 
 
