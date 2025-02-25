@@ -37,6 +37,10 @@ We will be posting Lab exercises, starter code over here
 |14|  Election  | [Link](https://electionsdataanalysis.vercel.app/)  | [Link](https://github.com/az-raei/electionsdataanalysis) | 
 |15|  Skin Care  | [Link](https://exciting-sealion.static.domains/skincare)  | [Link](https://github.com/sirichandanaa-hub/skincare)  |
 |16|  Budget  | [Link](https://harlequin-verina-80.tiiny.site)  | [Link](https://github.com/Srividhya252006/StoryTelling)  |
+|17|  Screen Time | [Link](https://mini-project-alpha-lilac.vercel.app)  | [Link](https://github.com/Devendarrathod1/mini-project/tree/afaf8048a7d55dd7b8ebf1ec61eb9803cbcf5c09/project)  |
+|18|  Fit Track  | [Link](https://v0-next-js-charts-3xcvuc.vercel.app/)  | [Link](https://github.com/Dheemanth10/DAV250)  | 
+|19|  SmartPhone  | [Link](https://dav-mini-project-88l6.vercel.app)  | [Link](https://github.com/farhan11166/DAV_MINI_PROJECT)  |
+|20|  watch   | [Link](https://dav-storytelling-nikhilesh.vercel.app)  |  [Link](https://github.com/nikhilesh-git/dav-storytelling-nikhilesh.git)  | 
 
 
 
