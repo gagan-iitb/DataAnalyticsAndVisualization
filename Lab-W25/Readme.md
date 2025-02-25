@@ -74,7 +74,7 @@ We will be posting Lab exercises, starter code over here
 |45|  Sports   | [Link](https://suraj026.github.io/Story-Telling-with-Data/)   |   [Link](https://github.com/Suraj026/Story-Telling-with-Data.git)   | 
 |46|   Eye Defect   | [Link](https://terabyte05.github.io/DAV_251_Eye_Defect_Survey/)    |  [Link](https://github.com/TERABYTE05/DAV_251_Eye_Defect_Survey)   |
 |47|  Solar  |  [Link](https://solar-taupe-three.vercel.app/)   | [Link](https://github.com/Ishupawar081/solar-)   |
-|48|   Mess  | [Link](https://combinedmessanalysis.netlify.app/)   | [Link](https://github.com/VARUN3WARE/Mess-Analysis/tree/main)   |
+|48|   Open-source LLMs  | [Link](https://llm-analysis-visuallly.netlify.app/)   | [Link](https://github.com/VARUN3WARE/Mess-Analysis/tree/main)   |
 |49|   UPI   | [Link](https://dav-story-telling.onrender.com/)   |  [Link](https://github.com/virtualvasu/DAV-story-telling)    |
 |50|  Whatsapp Chats   | [Link](https://davstorytellingkoosh.streamlit.app/)    |  [Link](https://github.com/Koosh18/KooshGupta_Whatsapp_Chat_Analysis)  | 
 |51|   Trains   | [Link](https://srcwap7-indian-railways-data-analysis-app-ff2w0r.streamlit.app/)   |  [Link](https://github.com/srcwap7/Indian-Railways-Data-Analysis)   |   
