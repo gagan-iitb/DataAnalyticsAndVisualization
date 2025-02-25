@@ -29,9 +29,9 @@ We will be posting Lab exercises, starter code over here
 | ----- | ------------| --------- | ---------- |
 |1|   |         |             |
 |2|  Hospital  | [Link](https://hr-analysisds250.streamlit.app) | [Link](https://github.com/aayushkatariaa/HR-analysis)  |
-|3|   Movie    | [link](https://motabhaistorytelling.vercel.app/) | [link](https://github.com/Abhigyan6091/Story-Telling-) | 
-|4|   Game Sales | [link](https://datastorybyajay.netlify.app)  | [link](https://github.com/AjayChikate/DAV-PROJECT)  | 
-|5|   Mobile Games  | [link](https://game-survey-dusky.vercel.app)  | [Link](https://github.com/Akshats-git/Learning-React/tree/main/08StoryTelling_Akshat)  |
+|3|   Movie    | [Link](https://motabhaistorytelling.vercel.app/) | [Link](https://github.com/Abhigyan6091/Story-Telling-) | 
+|4|   Game Sales | [Link](https://datastorybyajay.netlify.app)  | [Link](https://github.com/AjayChikate/DAV-PROJECT)  | 
+|5|   Mobile Games  | [Link](https://game-survey-dusky.vercel.app)  | [Link](https://github.com/Akshats-git/Learning-React/tree/main/08StoryTelling_Akshat)  |
 |6| Spotify  | [Link](https://dsl-251-story-with-data.vercel.app/)  | [Link](https://github.com/amaydixit11/DSL251-story-with-data)  |
 |7|  Library  | [Link](https://library-analysis.vercel.app/)  | [Link](https://github.com/Anamikarajesh/Library-Analysis)  |
 |8|           |                 |            |   
