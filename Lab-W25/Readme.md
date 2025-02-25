@@ -13,7 +13,7 @@ We will be posting Lab exercises, starter code over here
 | ----- | ------------| ----------- | -------- |
 |1|  Jan 27  | Seaborn, plotly,PCA,SVD | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Seaborn_Plotly_27_Jan_2025.ipynb) |
 |2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud_2.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/jaccard_Distance.ipynb) |
-|3|  Feb  10   | Scikit Learn | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Scikit_learn.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Lab_Scikit_Learn.pdf), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/mnist_dataset.ipynb) |
+|3|  Feb  10   | Scikit Learn | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Scikit_learn.ipynb), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Lab_Scikit_Learn.pdf), [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/mnist_dataset.ipynb) |   
 
 
 
@@ -79,6 +79,10 @@ We will be posting Lab exercises, starter code over here
 |50|  Whatsapp Chats   | [Link](https://davstorytellingkoosh.streamlit.app/)    |  [Link](https://github.com/Koosh18/KooshGupta_Whatsapp_Chat_Analysis)  | 
 |51|   Trains   | [Link](https://srcwap7-indian-railways-data-analysis-app-ff2w0r.streamlit.app/)   |  [Link](https://github.com/srcwap7/Indian-Railways-Data-Analysis)   |   
 
+
+
+
+ 
 
 
 
