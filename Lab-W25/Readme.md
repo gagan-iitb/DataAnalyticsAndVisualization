@@ -22,6 +22,6 @@ We will be posting Lab exercises, starter code over here
 |Sno| Topic  | URL | GitHub |
 | ----- | ------------| --------- | ---------- |
 |1|   |         |             |
-|2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [
+|2|  Hospital  | [Link](https://hr-analysisds250.streamlit.app) | [Link](https://github.com/aayushkatariaa/HR-analysis)  |
 
 
