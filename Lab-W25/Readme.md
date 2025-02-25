@@ -53,6 +53,9 @@ We will be posting Lab exercises, starter code over here
 |30|   PC Game  | [Link](https://nikhil-shrey.github.io/pc-games-analysis/)  | [Link](https://github.com/NIKHIL-SHREY/pc-games-analysis)  |
 |31|  Laptop Price  | [Link](https://effortless-sorbet-71269b.netlify.app)  |  [Link](https://github.com/Pobitro-B/Storytelling)   |
 |32|   Gym Usage  |  [Link](https://storytellingwithdata.vercel.app/)   | [Link](https://github.com/Rahul5977/Learning-React/tree/main/07reactRouter)  |
+|33|  Reels   | [Link](https://story-telling-with-data-by-rajeev.vercel.app/)  |  [Link](https://github.com/rajeev-sr/story-telling-with-data)    |
+|34|   Social Apps  | [Link](https://sparkly-zabaione-13941f.netlify.app)   | [Link](https://github.com/Chetan10R15/story)   |
+
 
 
 
