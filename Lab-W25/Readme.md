@@ -20,8 +20,8 @@ We will be posting Lab exercises, starter code over here
 **STORY TELLING ACTIVITY**
 
 |Sno| Topic  | URL | GitHub |
-| ----- | ------------| ----------- | -------- |
-|1|  Jan 27  | Seaborn, plotly,PCA,SVD | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Seaborn_Plotly_27_Jan_2025.ipynb) |
+| ----- | ------------| --------- | ---------- |
+|1|   |         |             |
 |2|  Feb 3   | Word Cloud & Jaccard Distance | [Link](https://github.com/gagan-iitb/DataAnalyticsAndVisualization/blob/main/Lab-W25/Word_cloud.ipynb), [
 
 
