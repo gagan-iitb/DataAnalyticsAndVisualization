@@ -57,6 +57,9 @@ We will be posting Lab exercises, starter code over here
 |34|   Social Apps  | [Link](https://sparkly-zabaione-13941f.netlify.app)   | [Link](https://github.com/Chetan10R15/story)      |
 |35|   Health   | [Link](https://da-vprject.vercel.app)   |  [Link](https://github.com/chaitanyakumarAI/DAVprject.git)   |
 |36|   Crime Data  | [Link](https://crimedataanal.vercel.app/)  | [Link](https://github.com/krish1809/Crime_data_analysis)  |
+|37|   JEE Prep   | [Link](https://dav-storytelling-jee.vercel.app/)  | [Link](https://github.com/katoch30/DAV-Storytelling-JEE.git)  |
+|38|   Farmer Welfare   |  [Link](https://rohitraghuwanshistorywithdata.netlify.app)   | [Link](https://github.com/rohitraghuwanshi07/Story-Telling-with-data)  |
+
 
 
 
