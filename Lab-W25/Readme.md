@@ -53,10 +53,10 @@ We will be posting Lab exercises, starter code over here
 |24|  Shoe Brand  | [Link](https://miniprojectondata.vercel.app/)  | [Link](https://github.com/Venkat-1905/miniprojectondata.git)  |
 |25|   Shirt/Shoe Size  | [Link](https://dav-datastorytelling.onrender.com)  | [Link](https://github.com/Kesav73/DAV_StoryTelling)  | 
 |26|  Cultural Activity   | [Link](https://sunil-dav-sunils-projects-be9459c0.vercel.app)  | [Link](https://github.com/Sunil0012/Sunil)  |
-|27|  Taste Culinary  | [Link](https://dav-story-1.vercel.app/)   | [Link](https://dav-story-1.vercel.app)  |
+|27|  Taste Culinary  | [Link](https://dav-2nzm.vercel.app)   | [Link](https://github.com/Khushi-2106)  |
 |28|  Foot Step  | [Link](https://boisterous-concha-295cce.netlify.app)  | [Link](https://github.com/kinshuk18/KinshukGupta_12341190_Story_Telling_with_Data)  |
 |29|   Tech cafe   | [Link](https://dav-story.onrender.com)   | [Link](https://github.com/KunalSewal/DAV-Story)  |
-|30|   PC Game  | [Link](https://nikhil-shrey.github.io/pc-games-analysis/)  | [Link](https://github.com/NIKHIL-SHREY/pc-games-analysis)  |
+|30|   PC Game  | [Link](https://pc-games-analysis.vercel.app)  | [Link](https://github.com/NIKHIL-SHREY/pc-games-analysis)  |
 |31|  Laptop Price  | [Link](https://effortless-sorbet-71269b.netlify.app)  |  [Link](https://github.com/Pobitro-B/Storytelling)   |
 |32|   Gym Usage  |  [Link](https://storytellingwithdata.vercel.app/)   | [Link](https://github.com/Rahul5977/Learning-React/tree/main/07reactRouter)  |
 |33|  Reels   | [Link](https://story-telling-with-data-by-rajeev.vercel.app/)  |  [Link](https://github.com/rajeev-sr/story-telling-with-data)    |
