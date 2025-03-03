@@ -1,0 +1,42 @@
+Source,Target,Distance (km)
+New York (JFK),London (LHR),5567
+Los Angeles (LAX),Tokyo (NRT),8770
+Dubai (DXB),Sydney (SYD),12040
+Singapore (SIN),Paris (CDG),10730
+Hong Kong (HKG),San Francisco (SFO),11130
+Chicago (ORD),Frankfurt (FRA),6980
+Toronto (YYZ),Dubai (DXB),11090
+Mumbai (BOM),London (LHR),7180
+Delhi (DEL),New York (JFK),11770
+Bangkok (BKK),Melbourne (MEL),7400
+Istanbul (IST),Los Angeles (LAX),11010
+Shanghai (PVG),Chicago (ORD),11250
+Madrid (MAD),Miami (MIA),7100
+Seoul (ICN),Toronto (YYZ),10600
+Johannesburg (JNB),Amsterdam (AMS),9050
+Rio de Janeiro (GIG),Lisbon (LIS),7700
+Mexico City (MEX),Madrid (MAD),9100
+Beijing (PEK),London (LHR),8130
+Cape Town (CPT),Dubai (DXB),7640
+Sydney (SYD),Los Angeles (LAX),12050
+Jakarta (CGK),Doha (DOH),7320
+Berlin (BER),New York (JFK),6370
+Kuala Lumpur (KUL),London (LHR),10530
+Zurich (ZRH),San Francisco (SFO),9400
+Sao Paulo (GRU),New York (JFK),7730
+Athens (ATH),Dubai (DXB),3260
+Cairo (CAI),Toronto (YYZ),9150
+Manila (MNL),Hong Kong (HKG),1140
+Hanoi (HAN),Seoul (ICN),2740
+Lisbon (LIS),Paris (CDG),1450
+Moscow (SVO),Bangkok (BKK),7080
+Buenos Aires (EZE),Madrid (MAD),10120
+Warsaw (WAW),New York (JFK),6870
+Oslo (OSL),Dubai (DXB),5270
+Lima (LIM),Los Angeles (LAX),6680
+Stockholm (ARN),Beijing (PEK),7180
+Brussels (BRU),Chicago (ORD),6660
+Rome (FCO),New York (JFK),6870
+Boston (BOS),Dublin (DUB),4800
+Vienna (VIE),Tokyo (NRT),9370
+Bangkok (BKK),Dubai (DXB),4880
