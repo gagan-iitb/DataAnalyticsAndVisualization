@@ -28,6 +28,12 @@ The Activities will reinforce this theme.will be done in class/lab
  * Curve-fits -- hidden points will appear after you learnt the curve
  * Guess the number game -- binary search... distribution of number easy or hard?
 
+** Tips for students
+--------------------------
+a. Attend classes regularly and take notes.
+b. Regularly review notes and think of possible applications and questions (at least on weekly basis)
+c. Ask questions in the class, present your view-points (seek clarifications from instructor/TAs)
+d. Practice problem solving in the real-world
 
 Course Objectives
 -----------------
