@@ -1,12 +1,20 @@
 # Data Analytics And Visualization
-Course Page for DS250 (Data Analytics and Visualization) being taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Winter Semester of 2025.
+Course Page for DS251 (Data Analytics and Visualization) and Lab course DS252 being taught at [IIT Bhilai, India](https://www.iitbhilai.ac.in/index.php) in the Winter Semester of 2026.
+
 <br> Course Instructor: [Dr. Gagan Raj Gupta ](https://www.iitbhilai.ac.in/index.php?pid=gagan)
 
-This course's purpose is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize activity-based learning and develop industry-relevant skills in the fields of data visualization and analysis of complex data sets, such as large network data. 
+This course's purpose is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize working with real world datasets around us and develop relevant skills in the fields of data visualization and analysis of complex data sets, such as large network data. 
+
+__Grading Scheme__
+
+A. Lecture course (ds251) will have maximum weightage for exams (30, 50) and surprise quiz based (10). We will delve into the mathematics and algorithms of data analysis. I would like to give practice problems and bonus questions regularly to build critical thinking and problem solving skills (10).
+
+B. Lab course (ds252) will have regular programming and data analysis tests without internet (50). Each student will get an individual project (40), where they have to collect, clean and analyse the data and present insights as a story. There will be regular practice problem sets and lab exercises (10).
+
 
 Motivation
 ----------
-* Useful insights can be obtained from data that can help people: healthcare, industry, governments, science
+* Useful insights can be obtained from data that can help people: agriculture, healthcare, industry, governments, science
 * Getting data is becoming easier day by day, but is very complex and difficult for people to understand
 * Data has _errors_ of various types (missing, incorrect etc.), is _incomplete_ and is _hard to clean_ (e.g. user reviews/ratings, distorted images) 
 * Data usually has _complex correlations_ and i.i.d. assumptions don't always work very well (e.g. graph data, time-series data) 
@@ -14,19 +22,7 @@ Motivation
 
 In this course, we want to learn how that is being done and solve real-life problems that interest us.
 
-Activity Based Learning
-------------------------
 # UNDERSTAND DATA ---> HYPOTHESIS ---> MODELS ----> INSIGHTS
-The Activities will reinforce this theme.will be done in class/lab
- * Weight distribution: study modality
- * Rolling dice: central limit theorem
- * Phone features and cost model
- * Composition: essay on "My country" -- study the vocabulary, language model, and probabilities. Can a machine compose this essay now?
- * Measure various quantities: time you sleep, time to eat, time you spend on phone, time you study, play etc. Understand these distributions...
- * Personality charts: Is there a person like me in the class whom I don't know?
- * Clusters: how many groups are there in the class, are groups equal? any outliers there? 
- * Curve-fits -- hidden points will appear after you learnt the curve
- * Guess the number game -- binary search... distribution of number easy or hard?
 
 ** Tips for students
 --------------------------
@@ -60,7 +56,10 @@ Pre-requisites
   
 If you don't meet one or more pre-requisites, be prepared to spend more time before or during the course in learning them.
 
-Books
+__TextBook__
+DATA ANALYTICS AND VISUALIZATION, Gagan Raj Gupta and Naresh Nagwani, Prentice Hall of India, 2025
+
+Reference Books
 ------
 * DAV: Data Analytics and Visualization, (to be published soon)
 * MML: [Mathematics of Machine Learning](https://mml-book.github.io/)
@@ -80,60 +79,13 @@ Class Materials
 Google drive (for IIT Bhilai students): [GDrive](https://drive.google.com/drive/folders/11TT4hnNL50yKA7oP3damPIkM9aBF0rNF)
 |#| Week   | Topics planned in this week | Text Book Reference |
 | ----- | ------------| ----------- | -------- |
-|1|  Dec 30  | Histogram, Dice Rolling, Central Limit Theorem, Height Weight Distribution |  |
-|2|  Jan 6  | Regression, Clustering, Word Length Distribution, Vectors, Random Matrices, Linear Project, Convex Lens, Volume Calculation Using Determinants | MML Ch 4 |
-|3|  Jan 13  | Linear Projections, Gradients, Noise, Multi-variate Gaussian | MML Ch 5,6 |
-|4|  Jan 20  | Linear Regression, analysis, Multi-variate Calculus | MML Ch 5 |
-|5|  Jan 27  | Information Theory, Decision Theory | PML Ch 5,6 |
-|6|  Feb  3   | Classification: Statistics (MLE, MAP) | PML Ch 4 |
-|7|  Feb 10   | High Dimensional Data Analysis, Dimensionlity Reduction | FOD Ch1 |
-
-
-
-
-Detailed Schedule
------------------
-Legend:
-|#| Week| Topics planned in this week | Text Book Reference |
-| --- | ------------| ----------- | -------- |
-|1| Dec 30 | Introduction to Data Science, Facets of Data, Data Science Process, Data Models: Geometric view and Statistical view, Probability Distributions | |
-|1| Dec 30 | Lab: Data Loading, Data Cleaning and Exploration with Python | |
-|2| Jan 6 | Linear Algebra and Regression | |
-|2| Jan 6 | Lab: Intro to Numpy and Pandas; Intro to Matplotlib, Seaborn, Plotly   | https://realpython.com/ggplot-python/ https://altair-viz.github.io/   |
-|3| Jan 13| Optimization theory and applications, PCA ||
-|3| Jan 13| Lab: Collect Data (Webscraping, API), Analyze and Make a chart in D3, Density Plots|IVB |
-|3| Jan 13| Case Studies: Predicting malicious URLs, Risk in Bank Loans, Sentiment Analysis, Healthcare Dataset||
-|4| Jan 20| Distance Measures, Recommendation Rules, Association Rules, ML intro, Learning by Prototypes ||
-|4| Jan 20| Lab: ||
-|5| Jan 27| Learning to classify data: various algorithms, Generative and Discriminative Models,  |PRML|
-|5| Jan 27| Lab: Connect Python to D3 using Flask||
-|6| Jan 31| Mathematics of Neural Networks, Decision Trees | PRML|
-|6| Jan 31| __Project: Complete a Basic Data Classification Interactive Application__ ||
-|7| Feb 7|   Networks: Basic Algorithms: Path Finding|GA Ch 4|
-|7| Feb 7| Lab: Visualization of Networks and Trees in D3|IVB Ch13|
-|8| Feb 14|  Networks Analysis: Random Walks, Counting Triangles|GA Ch 4 |
-|8| Feb 14| Lab: Intro to Neo4J|GA Ch3|
-|8| Feb 14| Case Studies: Knowledge Graphs, Product Recommendation, Graphical Models ||
-|9| Feb 21|  Centrality Algorithms, Community Detection Algorithms |GA Ch5|
-|9| Feb 21| Lab: Data Analysis using Neo4J| |
-|10| Feb 28| Text and Graph Embedding Algorithms|GA Ch6,7|
-|10| Feb 28| Lab: Word Cloud, Text Visualization, NLP libraries: NLTK    |    |
-|11| Mar 7|  Graph Machine Learning |GA Ch6,7|
-|11| Mar 7| __Project: Complete a graph data analysis Application__| |
-|12| Mar 12-20|__Mid Sem Break__||
-|12| Mar 21| __Tierce 2 Exam__||
-|13| Apr 4 | Time Series Data Analysis  ||
-|13| Apr 4| Lab: Interactive Dashboards|IVB Ch10|
-|14| Apr 11|  Streaming Data Algorithms||
-|14| Apr 11| Lab: Time Series Prediction and Clustering  ||
-|14| Apr 11| Case Studies: Weather, Financial Data, Imports/Exports,  ||
-|15| Apr 18|  Algorithms for Clustering Data: K-Means, K-Means++, DTW, DBSCAN ||
-|15| Apr 18 | Lab: Geographical Maps  |IVB Ch14|
-|15| Apr 25|  Dimensionality Reduction Algorithms | |
-|16| Apr 25| Lab: Visualization of High-Dimensional Data using T-SNE ||
-|17| Apr 25 |__Major Project: Complete a major data analysis course project__  ||
-
-
+|1|  Dec 31  | Data Collection, Data Exploration | Ch 1 and Ch2 |
+|2|  Jan 6  | Linear Algebra and Regression and Classification| Ch3|
+|3|  Jan 13  | Probability, Statistics and Optimization | Ch 4,5 |
+|4|  Jan 20  | Data Visualization Theory | Ch 6  |
+|5|  Jan 27  | Choosing the right visualization for your data | Ch 7 |
+|6|  Feb  3   | Clustering, Dimensionality reduction | Ch 8 |
+|7|  Feb 10   | High Dimensional Data Analysis, Dimensionlity Reduction | Ch 9 |
 
 # Data Scientist vs. Software Developer (Engineer)
 Both data-scientists and software developers are good at designing and building complex systems with many interconnected parts using different tools and frameworks. In general, software developers design systems consisting of many well-defined components, whereas data scientists work with systems wherein at least one of the components isn’t well defined prior to being built. That component is usually closely involved with data processing or analysis. Data scientists specialize in creating systems that rely on probabilistic statements about data and results. Well known examples of these are Google search engine (“These are probably the most relevant pages”), product recommendations on Amazon.com (“We think you’ll probably like these things”).
