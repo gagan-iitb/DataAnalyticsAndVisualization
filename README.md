@@ -5,6 +5,11 @@ Course Page for DS251 (Data Analytics and Visualization) and Lab course DS252 be
 
 This course's purpose is to introduce students to various algorithms and techniques for data analysis and visualization. We will emphasize working with real world datasets around us and develop relevant skills in the fields of data visualization and analysis of complex data sets, such as large network data. 
 
+
+__TextBook__
+DATA ANALYTICS AND VISUALIZATION, Gagan Raj Gupta and Naresh Nagwani, Prentice Hall of India, 2025
+https://www.amazon.in/ANALYTICS-VISUALIZATION-Textbook-NARESH-NAGWANI/dp/9354439314
+
 __Grading Scheme__
 
 A. Lecture course (ds251) will have maximum weightage for exams (30, 50) and surprise quiz based (10). We will delve into the mathematics and algorithms of data analysis. I would like to give practice problems and bonus questions regularly to build critical thinking and problem solving skills (10).
@@ -56,8 +61,6 @@ Pre-requisites
   
 If you don't meet one or more pre-requisites, be prepared to spend more time before or during the course in learning them.
 
-__TextBook__
-DATA ANALYTICS AND VISUALIZATION, Gagan Raj Gupta and Naresh Nagwani, Prentice Hall of India, 2025
 
 Reference Books
 ------
